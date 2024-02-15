@@ -23,4 +23,4 @@ More details can be found in the [paper](https://github.com/NadavElyakim27/Advan
 The full code of the work implementation can be seen in the [notebook](https://github.com/NadavElyakim27/Advanced-ML-Final-project/blob/a3048e544725e2988cf8e77958e0de765e41a466/Advanced_ML_Final_project_notebook_Nadav_Elyakim.ipynb)
 
 ## Thanks :wink:
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNadavElyakim27%2FRumor_classification.git&countColor=%23263759)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNadavElyakim27%2FRumor_classification.git&labelColor=%232ccce4&countColor=%23555555&style=flat)
